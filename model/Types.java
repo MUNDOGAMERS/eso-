@@ -5,9 +5,9 @@ public enum Types {
     ID,
     ASIGNACION,
     PUNTO_Y_COMA,
+    NUM,
     RESTA,
     MULTI,
     DIVISION,
     SUMA;
-
 }
